@@ -1,0 +1,28 @@
+name: The Kinney Family
+favicon: null
+layout_spectrum: 0.17117687733843923
+typography_spectrum: 0.47846526675857604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5833461477886885
+  lightness: 0.8150369578506798
+  saturation: 0.20473560318350792
+  rhythmicContrast: 0.45515684969723225
+purpose: []

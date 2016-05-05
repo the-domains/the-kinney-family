@@ -1,7 +1,7 @@
 name: The Kinney Family
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.47846526675857604
+typography_spectrum: 0.49529
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5833461477886885
-  lightness: 0.8150369578506798
-  saturation: 0.20473560318350792
-  rhythmicContrast: 0.45515684969723225
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
